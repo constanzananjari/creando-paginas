@@ -1,10 +1,10 @@
 body{
 
-    background-color: blueviolet;
+    background-color: hsl(54, 96%, 73%);
 }
 
 h1{
 
     text-align: center;
-    color: brown;
+    color: rgb(0, 0, 0);
 }
